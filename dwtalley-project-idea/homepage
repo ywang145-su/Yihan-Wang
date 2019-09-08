@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title> Asian food Restaurants in Syracuse </title>
+</head>
+
+<!-- 
+Home Page : Introduction of website 
+2nd page: Specific restaurants information
+3rd page: Ordering and delivery services
+
+[All texts and images come from the website of restaurants.]
+-->
+
+<body>
+    <header>
+        HOME | RESTAURANTS | ORDER
+    </header>
+   
+    
+    <main>
+        <section1>
+            <h3>Introduction</h3>
+            This website belongs to the information resources category and the functional website. 
+            <br>Many top Asian restaurants located in Syracuse can be found on this website. 
+            <br>The contents include food type, menu, location, website, reservation information, reviews, etc. 
+            <br>In addition to the introduction, the website also offers food ordering and delivery services.</br>
+
+        </section1>      
+        
+        
+        <section2>
+            <dl>
+                <dt><h3>Restaurants List</h3></dt>
+                    <dt>Chinese Restaurants</dt>
+                    <dd>Asian Cafe</dd>
+                    <dd>Red Chili Restaurants</dd>
+                    <dt>Japanese Restaurants</dt>
+                    <dd>Blue Monkey Cafe</dd>
+                    <dt>Korean Restaurants</dt>
+                    <dd>Secrete Garden</dd>
+            </dl>
+        </section2>
+
+        <section3>
+            <h3>Order button</h3>
+        </section3>
+    </main>
+
+
+    <footer>
+        All texts and images come from the website of restaurants.
+    </footer>
+
+    
+</body>
+
+
+
+
+
+
+
+</html>
