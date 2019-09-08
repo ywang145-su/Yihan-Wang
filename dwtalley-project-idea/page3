@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title> Asian food Restaurants in Syracuse </title>
+</head>
+
+<!-- 
+3rd page: Ordering and delivery services
+
+[All texts and images come from the website of restaurants.]
+-->
+
+<body>
+    <header>
+        HOME | RESTAURANTS | ORDER
+    </header>
+   
+    
+    <main>
+        <section1>
+            <h3>Order</h3>
+            This page is help you to make orders.
+        </section1>      
+        
+        
+        <section2>
+            <ul>
+                <li>Reserve Table</li>
+                <li>Pick up</li>
+                <li>Delivery</li>
+            </ul>
+            </p>
+        </section2>
+    </main>
+
+
+    <footer>
+        All texts and images come from the website of restaurants.
+    </footer>
+
+    
+</body>
+
+
+
+
+
+
+
+</html>
