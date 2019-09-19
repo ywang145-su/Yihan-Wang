@@ -1,0 +1,12 @@
+body {
+    background-color: #ccc;   
+    width:1024px;
+    margin: 0 auto;
+    font-family: "Arial";
+
+}
+
+section{
+    width:100%;
+    border: 2px solid #666;
+}
