@@ -1,0 +1,47 @@
+body{
+    background-color:white;   
+    width:1024px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+header{
+    color: lightseagreen;
+    font-weight: bold;
+}
+
+h1{
+    padding: 10px 0px 0px 0px;
+    font-weight: bold;
+}
+
+header p{
+    text-align: right;
+}
+
+section{
+    width:100%;
+    border: 2px dotted lightgray;
+}
+
+h2{
+    padding: 0px 0px 0px 30px;
+    color: cadetblue;
+}
+
+h3{
+    padding: 0px 0px 0px 10px;
+    color: mediumaquamarine;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+p{
+    padding: 0px 0px 0px 10px;
+}
+
+a{
+    color: mediumaquamarine;
+    text-decoration: underline;
+}
