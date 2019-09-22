@@ -7,8 +7,11 @@ body{
 }
 
 header{
-    color: lightseagreen;
+    color: blueviolet;
     font-weight: bold;
+    background-image: url(gradient-bg.jpg);
+    background-size: 100%;
+    padding: 0px 0px 0px 5px;
 }
 
 h1{
@@ -45,3 +48,4 @@ a{
     color: mediumaquamarine;
     text-decoration: underline;
 }
+
