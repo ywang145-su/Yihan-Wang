@@ -1,0 +1,85 @@
+ul {
+     margin: 0;
+     padding: 0;
+     list-style-type: none;
+ }
+
+ li {
+     padding: 10px;
+     width: 460px;
+ }
+ .odd {
+     background: #f1f1f1;
+ }
+ 
+ .even {
+     background: #e1e1e1;
+ }
+
+ table {
+     border-collapse: collapse;
+     width: 100%;
+     padding: 10px;
+ }
+
+ td {
+     padding: 10px;
+     text-align: center;
+ }
+
+
+
+
+
+
+ table, th, td {
+ border: 1px solid black;
+ }
+
+ th:nth-child(1){
+     width:60px;
+     color:darkred;
+ }
+ th:nth-child(2){
+     width:100px;
+     color:orange;
+ }
+ th:nth-child(3){
+     width:50px;
+     color:blue;
+ }
+
+ th:nth-child(4){
+     width:120px;
+     color:darkgreen;
+ }
+
+
+
+
+
+ a:hover {
+     color: orange;
+ }
+
+ #Eagles{
+     color:red;
+     background: #07163f;
+ }
+
+ #patriots {
+     color:#07163f;
+     background: red;
+ }
+
+ #Broncos{
+     color:red;
+     background: #07163f;
+     
+ }
+
+
+
+
+
+
