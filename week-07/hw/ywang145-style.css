@@ -1,0 +1,89 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+header h1{
+    font-weight: bold;
+    color: #fff;
+}
+
+header p{
+    font-weight: bold;
+    color: #fff;
+}
+
+.headerbackground {
+    background: #333333;
+    padding: 1px;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    background: #333333;
+    padding: 1px;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.bigrow {
+    display: flex;
+}
+
+.row {
+    display: flex;
+}
+
+.col1 {
+    flex: 1;
+}
+
+.col2 {
+    flex: 1;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.politics{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 0px 10px 10px 0px;
+}
+
+.travel{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 0px 10px 10px 10px;
+}
+
+.business{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 10px 10px 0px;
+}
+
+.food{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+.col2{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 0px 0px 10px 10px;
+}
+
+
+
+
+
